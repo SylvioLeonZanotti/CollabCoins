@@ -123,8 +123,6 @@ def return_to_home_page():
     show_login_page()
 
 
-
-
 # Função para mostrar a página de login
 def show_login_page():
     clear_frame()
