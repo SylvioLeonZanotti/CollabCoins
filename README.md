@@ -21,4 +21,3 @@ This system allows employees to help each other and be rewarded for their contri
 - **Table of Benefits**: The company can create and manage a table of benefits, defining which prizes can be exchanged for certain points values (e.g.: 15000 points for a new headset, 5000 points for a new keyboard).
 - **Log Recording**: The system records and saves logs in JSON format for new accounts created, logins made and login attempts.
 
-![image](https://github.com/SylvioLeonZanotti/CollabCoins/assets/123652053/4b4bc8b7-6016-43e7-a234-1cdca775cf14)
