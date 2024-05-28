@@ -184,7 +184,7 @@ def show_signup_success_message():
 # Função para mostrar a página de criação de conta
 def show_signup_page():
     clear_frame()
-    CTkLabel(master=frame, text="Criar Nova Conta", text_color="#3d85c6", anchor="w", justify="center", font=("Arial Bold", 24)).pack(anchor="w", pady=(50, 5), padx=(25, 0))
+    CTkLabel(master=frame, text="Criar nova nonta", text_color="#3d85c6", anchor="w", justify="center", font=("Arial Bold", 24)).pack(anchor="w", pady=(50, 5), padx=(25, 0))
     CTkLabel(master=frame, text="Preencha os campos abaixo", text_color="#7E7E7E", anchor="w", justify="left", font=("Arial Bold", 12)).pack(anchor="w", padx=(25, 0))
 
     global signup_name_entry
