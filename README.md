@@ -1,6 +1,6 @@
-# SharePoints
+# CollabCoins
 
-Welcome to **SharePoints**, this project is a visual system developed in Python with a graphical interface in customtkinter, designed to encourage interaction and collaboration between employees of a company. 
+Welcome to **CollabCoins**, this project is a visual system developed in Python with a graphical interface in customtkinter, designed to encourage interaction and collaboration between employees of a company. 
 This system allows employees to help each other and be rewarded for their contributions, accumulating points that can be exchanged for benefits.
 
 ## 🚀 Technologies
