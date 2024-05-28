@@ -7,6 +7,7 @@ This system allows employees to help each other and be rewarded for their contri
 
 - **Python**: Programming language used for system development.
 - **Customtkinter**: Library used to create the graphical interface.
+- **SQL**: Database used to store employee information and point transactions.
 
 ## 🫂 Goals
 
