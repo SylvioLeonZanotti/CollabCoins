@@ -4,13 +4,13 @@ from PIL import Image
 app = CTk()
 app.geometry("600x480")
 app.resizable(0,0)
-app.iconbitmap('C:/Users/leonz/OneDrive/Área de Trabalho/share_points/templates/coin.ico')
-app.title("Menu de login")
+app.iconbitmap('C:/Users/leonz/OneDrive/Área de Trabalho/collab_coins/templates/coin.ico')
+app.title("Collab Coins")
 
 # Diretório de imagens
-side_img_data = Image.open("C:/Users/leonz/OneDrive/Área de Trabalho/share_points/templates/side-img.png")
-email_icon_data = Image.open("C:/Users/leonz/OneDrive/Área de Trabalho/share_points/templates/email-icon.png")
-password_icon_data = Image.open("C:/Users/leonz/OneDrive/Área de Trabalho/share_points/templates/password-icon.png")
+side_img_data = Image.open("C:/Users/leonz/OneDrive/Área de Trabalho/collab_coins/templates/side-img.png")
+email_icon_data = Image.open("C:/Users/leonz/OneDrive/Área de Trabalho/collab_coins/templates/email-icon.png")
+password_icon_data = Image.open("C:/Users/leonz/OneDrive/Área de Trabalho/collab_coins/templates/password-icon.png")
 
 side_img = CTkImage(dark_image=side_img_data, light_image=side_img_data, size=(300, 480))
 email_icon = CTkImage(dark_image=email_icon_data, light_image=email_icon_data, size=(20,20))
