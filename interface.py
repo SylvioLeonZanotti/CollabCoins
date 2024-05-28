@@ -5,7 +5,7 @@ app = CTk()
 app.geometry("600x480")
 app.resizable(0,0)
 app.iconbitmap('C:/Users/leonz/OneDrive/Área de Trabalho/collab_coins/templates/coin.ico')
-app.title("Menu de login")
+app.title("Collab Coins")
 
 # Diretório de imagens
 side_img_data = Image.open("C:/Users/leonz/OneDrive/Área de Trabalho/collab_coins/templates/side-img.png")

@@ -19,3 +19,6 @@ This system allows employees to help each other and be rewarded for their contri
 - **Point Transfer**: Employees can send points to other employees as a thank you for help in resolving issues or bugs.
 - **Accumulation of Points**: Employees accumulate points received and can exchange them for benefits.
 - **Table of Benefits**: The company can create and manage a table of benefits, defining which prizes can be exchanged for certain points values (e.g.: 15000 points for a new headset, 5000 points for a new keyboard).
+- **Log Recording**: The system records and saves logs in JSON format for new accounts created, logins made and login attempts.
+
+![image](https://github.com/SylvioLeonZanotti/CollabCoins/assets/123652053/775a5748-f9d8-4b80-b911-ba547a786f86)
